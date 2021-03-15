@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string-array name="spinner_array">
+
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+
+    </string-array>
+</resources>
